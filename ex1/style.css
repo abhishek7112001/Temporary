@@ -1,0 +1,59 @@
+
+
+.heading{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.861);
+    color: white;
+    padding: 4px;
+}
+
+.navbar{
+    padding:20px;
+    color:white;
+    background-color: rgba(7, 0, 11, 0.591);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.active{
+    cursor: pointer;
+}
+
+.products{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    background-color: beige;
+}
+
+.product{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+
+.button{
+    background-color: rgb(13, 147, 13);
+    color: white;
+    padding: 8px;
+    cursor: pointer;
+    border: none;
+}
+
+
+.footer{
+    padding:10px;
+    color:white;
+    background-color:  rgba(7, 0, 11, 0.591);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
